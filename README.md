@@ -60,10 +60,10 @@ I am a motivated professional with expertise in Python, SQL, Power BI, and Table
 
 ## 🎓 **Education**  
 
-- **Advanced Certification in Full Stack Data Science**  
-  - *IIT Guwahati in collaboration with AlmaBetter* (Jan 2024 - Present)  
+- **Advanced Certification in Full Stack Data Science & AI**  
+  - *IIT Guwahati in collaboration with AlmaBetter* (Dec 2023 - Oct 2024)  
 
-- **Bachelor of Technology in Electronics and Telecommunication Engineering**  
+- **Bachelor of Technology**  
   - *D.Y. Patil College of Engineering and Technology, Kolhapur* (June 2020 - July 2023)  
 
 ---
