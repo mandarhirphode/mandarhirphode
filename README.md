@@ -1,91 +1,87 @@
-# 👋 Hi, I'm Mandar Hirphode  
+# Hi, I'm Mandar Hirphode 👋
 
-🚀 **Aspiring Data Scientist** with a passion for uncovering insights, solving problems, and driving data-driven decision-making. Currently pursuing an **Advanced Certification in Full Stack Data Science** from IIT Guwahati in collaboration with AlmaBetter, I bring a strong foundation in data analysis, machine learning, and visualization tools.  
-
----
-
-## 🌟 **About Me**  
-
-I am a motivated professional with expertise in Python, SQL, Power BI, and Tableau. My focus is on leveraging data to create impactful business solutions. I have hands-on experience working on projects in supply chain optimization, sales forecasting, and app analytics. My goal is to build intelligent solutions that empower organizations to achieve their objectives.
+**Data Analyst | Business Intelligence | Time-Series Analytics**
+📍 Pune, India &nbsp;|&nbsp; 📧 mandarhirphode@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/mandar-hirphode) &nbsp;|&nbsp; [Portfolio](https://mandarhirphode.github.io)
 
 ---
 
-## 🔧 **Skills**  
+## 👨‍💻 About Me
 
-### **Programming & Tools**  
-- **Programming Languages:** Python, SQL, R  
-- **Visualization:** Power BI, Tableau, Excel  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
+Data Analyst with **1+ year of industry experience** at an energy-tech company, building **Power BI forecasting dashboards**, **Python-SQL automation pipelines**, and **Grafana real-time monitoring systems** across 5+ enterprise clients.
 
-### **Data Science & Machine Learning**  
-- Supervised & Unsupervised Learning (Regression, Clustering, Decision Trees, Neural Networks)  
-- Time Series Analysis & Forecasting (ARIMA, LSTM)  
-- Statistical Modeling & Data Manipulation (Pandas, NumPy, Scikit-learn, statsmodels)  
-- Model Deployment & Feature Engineering  
+**IIT Guwahati certified** in Full Stack Data Science & AI. Passionate about turning raw data into actionable business insights that reduce costs and drive decisions.
 
-### **Soft Skills**  
-- Problem-Solving  
-- Collaboration & Teamwork  
-- Communication & Data Storytelling  
+🔍 Open to **Data Analyst · BI Analyst · Power BI Developer** roles
 
 ---
 
-## 🧠 **Projects**  
+## 🛠️ Tech Stack
 
-### 1. **Amazon Sales Analysis**  
-- **Objective:** Analyzed over 10,000 rows of Amazon sales data to identify trends and drive strategic decision-making.  
-- **Highlights:**  
-  - Improved sales by 15% through insights from interactive Power BI dashboards.  
-  - Enhanced reporting efficiency by 30% using dynamic KPI cards and filters.  
+**BI & Visualisation**
+`Power BI` `Grafana` `Looker Studio` `Tableau` `DAX` `Power Query`
 
-### 2. **Play Store Analysis**  
-- **Objective:** Analyzed app engagement and user feedback to improve app design and positioning.  
-- **Highlights:**  
-  - Boosted user engagement by 20% through feature recommendations.  
-  - Enhanced app ratings by 15% with actionable insights derived from exploratory data analysis.  
+**Databases & SQL**
+`SQL` `PostgreSQL` `InfluxDB` `Snowflake`
 
-### 3. **Flipkart Product Case Study**  
-- **Objective:** Designed and optimized a scalable database schema for a platform with 2 million monthly active users.  
-- **Highlights:**  
-  - Reduced database query times by 20% with efficient SQL schema design.  
-  - Won a top-5 position in a data design competition.  
+**Programming**
+`Python` `Pandas` `NumPy` `ETL Scripting`
 
-### 4. **Supply Chain Data Analysis** (Professional Internship)  
-- **Objective:** Optimized inventory levels and reduced costs for a leading organization.  
-- **Highlights:**  
-  - Achieved a 15% cost reduction by creating real-time dashboards using Power BI and Tableau.  
-  - Delivered actionable insights for cross-functional decision-making.  
+**Analytics & ML**
+`Forecasting` `Regression` `Clustering` `Time-Series Analysis`
+
+**Data Engineering**
+`Microsoft Fabric` `SSIS` `Snowpipe` `Azure` `Dimensional Modelling`
+
+**Excel & Tools**
+`Advanced Excel` `Pivot Tables` `VLOOKUP/XLOOKUP` `Macros`
 
 ---
 
-## 🎓 **Education**  
+## 🚀 Featured Projects
 
-- **Advanced Certification in Full Stack Data Science & AI**  
-  - *IIT Guwahati in collaboration with AlmaBetter* (Dec 2023 - Oct 2024)  
+### 📊 [Croma Retail Data Warehouse & KPI Analytics](https://github.com/mandarhirphode/croma-data-warehouse)
+End-to-end event-driven data warehouse on **Snowflake + Azure** with automated Snowpipe ingestion, dimensional modelling, and KPI analytics views tracking sales, inventory, and customer lifetime value.
+`Snowflake` `Azure` `SQL` `Snowpipe` `Dimensional Modelling`
 
-- **Bachelor of Technology**  
-  - *D.Y. Patil College of Engineering and Technology, Kolhapur* (June 2020 - July 2023)  
+### ⚡ [End-to-End Data Analytics Pipeline](https://github.com/mandarhirphode/data-analytics-pipeline)
+Full pipeline from raw data → SQL → Power BI delivering real-time business insights. Improved decision-making efficiency by **20%**.
+`Python` `SQL` `Power BI` `ETL`
 
----
+### 🤖 [Movie Recommender System](https://github.com/mandarhirphode/movie-recommender)
+Content-based recommender using **TF-IDF vectorisation and cosine similarity**, achieving **85% recommendation accuracy**.
+`Python` `Pandas` `Scikit-learn` `NLP`
 
-## 📜 **Certifications**  
-
-- Data Analysis and Visualization – *Accenture (Forage)*  
-- Google Analytics – *Google*  
-
----
-
-## 🌟 **Contact Me**  
-
-- **Email:** mandarhirphode@gmail.com  
-- **Phone:** +91-9420662327  
-- **LinkedIn:** [Mandar Hirphode](https://www.linkedin.com/in/mandar-hirphode)  
-- **GitHub:** [mandarhirphode](https://github.com/mandarhirphode)  
+### 📈 [Amazon Sales Analysis Dashboard](https://github.com/mandarhirphode/Amazon_Sales_Analysis_Dashboard)
+Interactive Power BI dashboard analysing 10,000+ rows of sales data. Improved reporting efficiency by **30%** with dynamic KPI cards and filters.
+`Power BI` `DAX` `Data Visualisation`
 
 ---
 
-## ✨ **Let’s Connect!**  
-I’m always excited to collaborate on projects or discuss ideas in data science, analytics, and beyond. Feel free to reach out to me!
+## 💼 Experience
+
+**Data Analyst** — Integrated Active Monitoring, Pune *(Jan 2025 – Present)*
+Built forecasting dashboards, energy baseline models, and cross-platform BI systems across 5+ enterprise clients.
+
+**Data Science Intern** — RajYug IT Solutions *(Sep 2024 – Dec 2024)*
+Power BI dashboards for Travel, Oil & Gas, Real Estate. ETL pipelines via Microsoft Fabric & SSIS.
+
+**Data Analyst Intern** — YBI Foundation *(May 2024 – Jul 2024)*
+Data cleaning, clustering, churn analysis, and segmentation dashboards in Power BI.
 
 ---
 
+## 🎓 Education & Certifications
+
+- 🏛️ **Full Stack Data Science & AI** — IIT Guwahati *(2023–2024)*
+- 🎓 **B.Tech** — Shivaji University *(2020–2023)*
+- 🏆 **Employee of the Month** — Integrated Active Monitoring
+
+---
+
+## 📬 Let's Connect
+
+If you're hiring or want to collaborate on a data project, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandar-hirphode)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mandarhirphode@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://mandarhirphode.github.io)
