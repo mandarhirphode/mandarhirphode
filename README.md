@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Animation" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Data Analytics GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🏢 **Data Analyst** at **Integrated Active Monitoring, Pune**
 - 📊 Building **Power BI dashboards**, **Python-SQL pipelines** & **Grafana monitoring** for 5+ enterprise clients
@@ -147,8 +147,6 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/mandarhirphode/mandarhirphode/output/github-contribution-grid-snake.svg"/>
 </picture>
 </div>
-
-> ⚠️ **Note:** The snake animation requires a one-time GitHub Actions setup. See instructions below ↓
 
 ---
 
