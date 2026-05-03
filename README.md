@@ -12,7 +12,7 @@
 &nbsp;
 <a href="mailto:mandarhirphode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://mandarhirphode.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mandarsportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=mandarhirphode&style=for-the-badge&color=1A3A6B&label=PROFILE+VIEWS"/>
 
