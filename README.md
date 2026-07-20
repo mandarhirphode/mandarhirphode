@@ -1,156 +1,247 @@
-<!-- Wave Header -->
-<div align="center">
+<!-- ====================== HEADER ====================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A6B&height=130&section=header&text=Mandar%20Hirphode&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20%7C%20Time-Series%20Analytics&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A6B&height=170&section=header&text=Mandar%20Hirphode&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20|%20Business%20Intelligence%20|%20Power%20BI%20Developer&descAlignY=60&descSize=18"/>
+</p>
 
-<!-- Typing animation — white text on transparent bg, readable over wave -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1A3A6B&background=FFFFFF00&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Mandar+Hirphode;📊+Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;⚡+Energy+%26+BI+Analytics+Specialist;🏛️+IIT+Guwahati+Certified;🚀+Open+to+Data+Analyst+%2F+BI+Analyst+Roles)](https://git.io/typing-svg)
+<p align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A3A6B&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Business+Intelligence+Developer;Power+BI+%7C+SQL+%7C+Python+%7C+Grafana;Machine+Learning+%7C+Energy+Analytics+%7C+Time-Series;Building+Data+Products+that+Drive+Business+Decisions)](https://git.io/typing-svg)
 
-<a href="https://linkedin.com/in/mandar-hirphode"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:mandarhirphode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://mandarsportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=mandarhirphode&style=for-the-badge&color=1A3A6B&label=PROFILE+VIEWS"/>
+</p>
 
-</div>
+<p align="center">
 
----
+<a href="https://linkedin.com/in/mandar-hirphode">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 👨‍💻 About Me
+<a href="mailto:mandarhirphode@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img align="right" alt="Data Analytics GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<a href="https://mandarsportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- 🏢 **Data Analyst** at **Integrated Active Monitoring, Pune**
-- 📊 Building **Power BI dashboards**, **Python-SQL pipelines** & **Grafana monitoring** for 5+ enterprise clients
-- 🎓 **IIT Guwahati** certified in Full Stack Data Science & AI
-- ⚡ Specialised in **Energy Analytics & Time-Series Forecasting**
-- 🏆 **Employee of the Month** — Integrated Active Monitoring
-- 🤖 Skilled in **Machine Learning** — Regression, Clustering, Classification
-- 🔍 Open to **Data Analyst · BI Analyst · Power BI Developer** roles
-- 📍 Pune, India
+<a href="https://github.com/mandarhirphode">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br clear="right"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-<div align="center">
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 📊 BI & Visualisation
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+I'm a **Data Analyst** passionate about transforming raw data into actionable business insights.
 
-### 🗄️ Databases & SQL
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/>
+Currently working at **Integrated Active Monitoring Pvt. Ltd.**, where I design scalable BI solutions, automate enterprise reporting workflows, and build Machine Learning models for Industrial IoT and Energy Analytics.
 
-### 🐍 Programming & ML
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+### Highlights
 
-### ☁️ Cloud & Data Engineering
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-### 🔧 Tools
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</div>
+- 📊 Built **25+ Production Dashboards**
+- 👥 Supporting **500+ Enterprise Users**
+- ⚡ Automated **5–7 Daily MIS Reports**
+- 🔍 Reduced **Data Errors from 8% → <1%**
+- 🤖 ML Models with **85–93% Prediction Accuracy**
+- ⚙️ Reduced Reporting Time from **2 Days → Same Day**
+- 💡 Delivered **10–12% Energy Savings**
+- 🏆 Employee of the Month
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-<div align="center">
+## 📊 Business Intelligence
 
-| # | Project | Description | Tools |
-|---|---------|-------------|-------|
-| 📊 | [**Amazon Sales Analysis Dashboard**](https://github.com/mandarhirphode/Amazon_Sales_Analysis_Dashboard) | Interactive Power BI dashboard on 10,000+ rows. **30% faster** reporting with dynamic KPI cards | `Power BI` `DAX` `Excel` |
-| 👥 | [**HR Data Analytics Project**](https://github.com/mandarhirphode/HR_Data_Analytics_Project) | HR attrition analysis, department KPIs and workforce insights dashboard | `Python` `Power BI` `SQL` |
-| 🎬 | [**Movie Recommender System**](https://github.com/mandarhirphode/Movie_Recommender_System) | Content-based recommender using TF-IDF & cosine similarity. **85% accuracy** | `Python` `Scikit-learn` `NLP` |
-| 🏎️ | [**Car Price Prediction**](https://github.com/mandarhirphode/Car_Price_Prediction) | ML regression model to predict used car prices based on features | `Python` `Scikit-learn` `Regression` |
-| 📺 | [**Netflix Shows Clustering**](https://github.com/mandarhirphode/Netflix_TV_Shows_Clustring) | Unsupervised clustering of Netflix titles for content segmentation | `Python` `K-Means` `NLP` |
-| 🛒 | [**Customer Sales Analysis**](https://github.com/mandarhirphode/Customer_Sales_Analysis) | End-to-end sales analysis with customer segmentation and KPI reporting | `Python` `SQL` `Power BI` |
-| 🌍 | [**Global Terrorism EDA**](https://github.com/mandarhirphode/EDA_Global_Terrorism_Data) | Exploratory data analysis on global terrorism dataset with visual insights | `Python` `Pandas` `Matplotlib` |
-| 📱 | [**Play Store EDA**](https://github.com/mandarhirphode/EDA_Play_Store_Dataset) | App engagement and user feedback analysis to improve app positioning | `Python` `Pandas` `EDA` |
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 
----
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-## 📊 GitHub Stats
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mandarhirphode&show_icons=true&hide_border=true&title_color=1A3A6B&icon_color=1A3A6B&text_color=444444&bg_color=ffffff&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarhirphode&layout=compact&hide_border=true&title_color=1A3A6B&text_color=444444&bg_color=ffffff&langs_count=6" height="160"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square"/>
 
-<br/>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square"/>
 
-<img src="https://streak-stats.demolab.com?user=mandarhirphode&hide_border=true&ring=1A3A6B&fire=F2C811&currStreakLabel=1A3A6B&background=ffffff&sideLabels=444444&dates=888888&stroke=1A3A6B" width="500"/>
-
-</div>
+</p>
 
 ---
 
-## 💼 Experience Timeline
+## 🗄 Databases
 
-```
-🏢  Data Analyst          │  Integrated Active Monitoring, Pune  │  Jan 2025 – Present
-    ├─ Power BI forecasting dashboards for energy consumption & peak demand
-    ├─ Python-SQL pipelines saving 10+ hrs/week manual effort
-    └─ Grafana + Looker Studio real-time KPI monitoring — 5+ enterprise clients
+<p>
 
-🔬  Data Science Intern   │  RajYug IT Solutions                 │  Sep 2024 – Dec 2024
-    ├─ Power BI dashboards — Travel, Oil & Gas, Real Estate sectors
-    ├─ ETL pipelines via Microsoft Fabric & SSIS
-    └─ ML models for demand forecasting (+12% forecast reliability)
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
-📊  Data Analyst Intern   │  YBI Foundation                      │  May 2024 – Jul 2024
-    ├─ Data cleaning & transformation with Python (Pandas, NumPy)
-    └─ Churn analysis & segmentation dashboards in Power BI
-```
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake"/>
+
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb"/>
+
+</p>
 
 ---
 
-## 🎓 Education & Certifications
+## 🐍 Programming
 
-```
-🏛️  Full Stack Data Science & AI  │  IIT Guwahati            │  2023 – 2024
-🎓  B.Tech                        │  Shivaji University       │  2020 – 2023
-🏆  Employee of the Month         │  Integrated Active Monitoring
-```
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=python"/>
 
-## 🐍 Contribution Snake
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandarhirphode/mandarhirphode/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mandarhirphode/mandarhirphode/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/mandarhirphode/mandarhirphode/output/github-contribution-grid-snake.svg"/>
-</picture>
-</div>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+
+</p>
 
 ---
 
-<!-- Wave Footer -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A6B&height=80&section=footer" width="100%"/>
-</div>
+## ☁️ Data Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SSIS-CC2927?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n"/>
+
+</p>
+
+---
+
+## 🤖 Generative AI
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-9146FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| ⚡ **IPMVP Energy Forecasting System** | ML-based Energy Forecasting Platform with 85–93% Prediction Accuracy | Python • PostgreSQL • InfluxDB • Scikit-learn |
+| 🤖 **GenAI LinkedIn Post Generator** | RAG application using LangChain + Llama3 + ChromaDB | Python • LangChain • Streamlit |
+| 📊 **BMS Reporting Automation Platform** | Automated Enterprise Reporting using Python & n8n | Python • REST API • PostgreSQL • n8n |
+| 💹 **Financial MIS Dashboard Suite** | Interactive Business Dashboards for Financial KPIs | Power BI • Excel • DAX |
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Integrated Active Monitoring Pvt. Ltd.
+
+**Data Analyst**
+
+**Jan 2025 – Present**
+
+✔ Built **25+ Production Dashboards**
+
+✔ Automated **5–7 Enterprise Reports**
+
+✔ Reduced Data Errors from **8% → <1%**
+
+✔ ML Models with **85–93% Accuracy**
+
+✔ Supported **500+ Enterprise Users**
+
+✔ Optimized SQL Queries
+
+✔ Built Reusable ETL Pipelines
+
+---
+
+## 💼 Arthalay Financial Services
+
+**MIS Executive**
+
+**Jun 2024 – Dec 2024**
+
+✔ Power BI Dashboards
+
+✔ Excel Automation
+
+✔ Reduced Manual Reporting by **40%**
+
+✔ Automated MIS Workflows
+
+✔ Improved Data Accuracy by **30%**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mandarhirphode&show_icons=true&count_private=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarhirphode&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mandarhirphode"/>
+
+</p>
+
+---
+
+# 🏆 Certifications
+
+- 🎓 IIT Guwahati – Full Stack Data Science & AI
+- Microsoft PL-300 *(In Progress)*
+- Microsoft DP-900 *(In Progress)*
+- Snowflake – DataCamp
+- Accenture Data Analytics Job Simulation
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mandarhirphode@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mandar-hirphode">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://mandarsportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A3A6B&height=100&section=footer"/>
+
+</p>
