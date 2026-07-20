@@ -196,15 +196,15 @@ Currently working at **Integrated Active Monitoring Pvt. Ltd.**, where I design 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mandarhirphode&show_icons=true&count_private=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mandarhirphode&show_icons=true&count_private=true&hide_border=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarhirphode&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarhirphode&layout=compact&hide_border=true&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=mandarhirphode"/>
+<img src="https://streak-stats.demolab.com?user=mandarhirphode&theme=github-dark&hide_border=true"/>
 
 </p>
 
