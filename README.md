@@ -192,24 +192,6 @@ Currently working at **Integrated Active Monitoring Pvt. Ltd.**, where I design 
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mandarhirphode&show_icons=true&count_private=true&hide_border=true&theme=react&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarhirphode&layout=compact&hide_border=true&theme=react&cache_seconds=1800"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mandarhirphode&theme=react&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 Certifications
 
 - 🎓 IIT Guwahati – Full Stack Data Science & AI
