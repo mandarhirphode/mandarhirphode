@@ -178,7 +178,7 @@ Currently working at **Integrated Active Monitoring Pvt. Ltd.**, where I design 
 
 **MIS Executive**
 
-**Jun 2024 – Dec 2024**
+**Feb 2024 – Dec 2024**
 
 ✔ Power BI Dashboards
 
